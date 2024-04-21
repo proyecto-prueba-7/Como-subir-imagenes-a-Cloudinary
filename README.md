@@ -1,4 +1,4 @@
-# Como subir imagenes a Cloudinary con [MF Dev]("https://www.youtube.com/channel/UC4r9fia857HbFKswu9YqaCg", "Canal Oficial MF Dev")
+# Como subir imagenes a Cloudinary con [MF Dev](https://www.youtube.com/channel/UC4r9fia857HbFKswu9YqaCg, "Canal Oficial MF Dev")
 ---
 
 ## Pasos a seguir 
@@ -17,9 +17,9 @@ Una vez instaladas las dependencias que necesita el proyecto para funcionar, aho
 ### 2º Instalar paquetes
 A continuacion dare una lista de dependencias que vamos a usar, la idea es de hacer un proyecto dinamico y que sea muy apetecible para el usuario, si queremos podemos instalar todo de una vez, o podemos instalar uno por uno, eso dependerá de ti, en mi caso instalaré todo de una vez.
 
-[React Toastify]("https://www.npmjs.com/package/react-toastify") 
-[Sweetalert]("https://www.npmjs.com/package/sweetalert","link")
-[React Dropzone]("https://www.npmjs.com/package/react-dropzone","link")
+[React Toastify](https://www.npmjs.com/package/react-toastify "Link de Documentación") 
+[Sweetalert](https://www.npmjs.com/package/sweetalert "Link de Documentación")
+[React Dropzone](https://www.npmjs.com/package/react-dropzone "Link de Documentación")
 
 
 `npm install axios react-dropzone react-toastify reactstrap sweetalert`
