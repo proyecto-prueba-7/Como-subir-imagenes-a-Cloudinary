@@ -297,4 +297,4 @@ body {
 
 
 
-# Ahora que tenemos todo :smiley: vamos a programar :computer: :smile: [Vamos!!!]("https://www.youtube.com/channel/UC4r9fia857HbFKswu9YqaCg", "Tutorial Completo")
+# Ahora que tenemos todo :smiley: vamos a programar :computer: :smile: [Vamos!!!](https://youtu.be/pGt_Di-hgJc, "Tutorial Completo")
